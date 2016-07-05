@@ -28,18 +28,18 @@ and return the integer `700`.
   # your answer here
 ```
 
-Please write the code that takes the following array `[23,56,3,7]` sorts it
-then reverses that array returning and modifying the refrence to the original
-array.
+Please write code that takes the array `[23,56,3,7]`, sorts it,
+and then reverses that sorted array 'in place'
+(i.e. modifying the original array, rather than returning a new array).
 
 ```ruby
   # your answer here
 ```
 
-What does an exclamation point after a method usually signify?
+What does an exclamation point at the end of a method name usually signify?
 
-```ruby
-  # your answer here
+```text
+  Your answer here:
 ```
 
 What does a question mark and the end of a method name usually signify?
@@ -54,20 +54,21 @@ How do you define a method in Ruby? Give a simple example.
   # your answer here
 ```
 
-How do you create a class in Ruby?
+How do you create a class in Ruby? Give a simple example.
 
 ```ruby
   # your answer here
 ```
 
-If I modify a class in Ruby will already created instances of that class have
-the methods I added?
+If I modify a class in Ruby by adding a method, will instances of that class
+which have already been created be able to call the new method I added?
+Please explain why.
 
-```ruby
-  # your answer here
+```text
+  Your answer here:
 ```
 
-Please give an example of iterating in Ruby?
+Please give an example of how iteration can be performed in Ruby.
 
 ```ruby
   # your answer here
