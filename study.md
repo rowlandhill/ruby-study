@@ -11,7 +11,7 @@ language.
 ## Suggested Activities
 
 -   [Poignant Guide](http://poignant.guide/)
--   [Code School: Ruby](https://www.codeschool.com/learn/ruby) (Ruby Bits 1 and 2).
+-   [Code School: Ruby Bits, Parts 1 and 2](https://www.codeschool.com/learn/ruby)
 
 ## Ruby
 
