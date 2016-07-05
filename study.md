@@ -15,6 +15,12 @@ language.
 
 ## Ruby
 
+How do you write an `if` statement in Ruby?
+
+```ruby
+  # your answer here
+```
+
 Please write the code that would take the following integer `007` and return the
 string `"700"`
 
@@ -31,6 +37,18 @@ array.
 ```
 
 What does an exclamation point after a method usually signify?
+
+```ruby
+  # your answer here
+```
+
+What does a question mark and the end of a method name usually signify?
+
+```text
+  Your answer here:
+```
+
+How do you define a method in Ruby? Give a simple example.
 
 ```ruby
   # your answer here
