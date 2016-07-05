@@ -21,8 +21,8 @@ How do you write an `if` statement in Ruby?
   # your answer here
 ```
 
-Please write the code that would take the following integer `007` and return the
-string `"700"`
+Please write code that would take the string "007", reverse it,
+and return the integer `700`.
 
 ```ruby
   # your answer here
