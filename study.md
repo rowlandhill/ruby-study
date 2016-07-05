@@ -1,6 +1,6 @@
 # Ruby Study
 
-The purpose of this study is to get you aquanited with Ruby as a programming
+The purpose of this study is to get you aquainted with Ruby as a programming
 language.
 
 ## Required Activities
