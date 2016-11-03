@@ -15,8 +15,8 @@ language.
 
 ## Ruby
 
-Please write the code that would take the following integer `007` and return the
-string `"700"`
+Please write the code that would take the following integer `700` and return the
+string `"007"`
 
 ```ruby
   # your answer here
@@ -35,7 +35,6 @@ What does an exclamation point after a method usually signify?
 ```ruby
   # your answer here
 ```
-
 How do you create a class in Ruby?
 
 ```ruby
