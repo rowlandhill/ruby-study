@@ -14,6 +14,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 -   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 -   [Poignant Guide](http://poignant.guide/)
 -   [Code School: Ruby](https://www.codeschool.com/learn/ruby) (Ruby Bits 1 and 2).
+-   [% Notation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#The_.25_Notation)
 
 ## Type Conversion
 
