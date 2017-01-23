@@ -22,7 +22,7 @@ Please write the code that would take the following integer `700` and return the
 string `"007"`
 
 ```ruby
-  # your answer here
+# your answer here
 ```
 
 ## Array Manipulation
@@ -32,22 +32,22 @@ manipulates it by sorting it and then reversing it in place (i.e., modifying
 the reference to the original).
 
 ```ruby
-  # your answer here
+# your answer here
 ```
 
 ## Class#method!
 
 What does an exclamation point after a method usually signify?
 
-```ruby
-  # your answer here
+```md
+<!-- your answer here -->
 ```
 
 ## Instantiation
 How do you create a class in Ruby?
 
 ```ruby
-  # your answer here
+# your answer here
 ```
 
 ## Class Modification
@@ -55,8 +55,8 @@ How do you create a class in Ruby?
 If I modify a class in Ruby, will already created instances of that class have
 the methods I added?
 
-```ruby
-  # your answer here
+```md
+<!-- your answer here -->
 ```
 
 ## Iteration
@@ -64,5 +64,5 @@ the methods I added?
 Please give an example of iterating in Ruby?
 
 ```ruby
-  # your answer here
+# your answer here
 ```
