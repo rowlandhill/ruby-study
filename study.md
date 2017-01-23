@@ -3,13 +3,10 @@
 The purpose of this study is to get you aquanited with Ruby as a programming
 language.
 
-## Required Activities
+## Required Readings
 
 -   [Try Ruby](http://tryruby.org/)
 -   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-
-## Suggested Activities
-
 -   [Poignant Guide](http://poignant.guide/)
 -   [Code School: Ruby](https://www.codeschool.com/learn/ruby) (Ruby Bits 1 and 2).
 
