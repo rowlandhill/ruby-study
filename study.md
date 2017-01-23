@@ -26,9 +26,9 @@ string `"007"`
 
 ## Array Manipulation
 
-Please write the code that takes the following array `[23,56,3,7]` sorts it
-then reverses that array returning and modifying the refrence to the original
-array.
+Please write the code that takes the following array, `[23, 56, 3, 7]`, and
+manipulates it by sorting it and then reversing it in place (i.e., modifying
+the reference to the original).
 
 ```ruby
   # your answer here
@@ -51,7 +51,7 @@ How do you create a class in Ruby?
 
 ## Class Modification
 
-If I modify a class in Ruby will already created instances of that class have
+If I modify a class in Ruby, will already created instances of that class have
 the methods I added?
 
 ```ruby
