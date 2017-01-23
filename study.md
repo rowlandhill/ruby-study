@@ -15,7 +15,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 -   [Poignant Guide](http://poignant.guide/)
 -   [Code School: Ruby](https://www.codeschool.com/learn/ruby) (Ruby Bits 1 and 2).
 
-## Ruby
+## Type Conversion
 
 Please write the code that would take the following integer `700` and return the
 string `"007"`
@@ -23,6 +23,8 @@ string `"007"`
 ```ruby
   # your answer here
 ```
+
+## Array Manipulation
 
 Please write the code that takes the following array `[23,56,3,7]` sorts it
 then reverses that array returning and modifying the refrence to the original
@@ -32,16 +34,22 @@ array.
   # your answer here
 ```
 
+## Class#method!
+
 What does an exclamation point after a method usually signify?
 
 ```ruby
   # your answer here
 ```
+
+## Instantiation
 How do you create a class in Ruby?
 
 ```ruby
   # your answer here
 ```
+
+## Class Modification
 
 If I modify a class in Ruby will already created instances of that class have
 the methods I added?
@@ -49,6 +57,8 @@ the methods I added?
 ```ruby
   # your answer here
 ```
+
+## Iteration
 
 Please give an example of iterating in Ruby?
 
