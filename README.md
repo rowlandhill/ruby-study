@@ -6,6 +6,16 @@
 
 -   None.
 
+## Objectives
+
+-   Define functions, classes, and methods.
+-   Create instances of classes.
+-   Manipulate strings using string interpolation.
+-   Convert data types from one to another
+-   Iterate through collections.
+-   Manipulate hashes using symbols.
+-   Pass blocks into methods.
+
 ## Instructions
 
 1.  Fork and clone this repository.

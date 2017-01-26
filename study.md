@@ -1,55 +1,68 @@
 # Ruby Study
 
-The purpose of this study is to get you aquanited with Ruby as a programming
-language.
+Use your favorite search engine and the provided readings to research and
+respond to the following questions.
 
-## Required Activities
+In your responses, be sure to cite any relevant sources you consulted in your
+search. We ask you to write responses in your own words in order to see how you
+process what you've read. Please do not respond with direct quotes from source
+material. Instead, digest what you've read and repeat it in your own voice.
+
+## Required Readings
 
 -   [Try Ruby](http://tryruby.org/)
 -   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-
-## Suggested Activities
-
 -   [Poignant Guide](http://poignant.guide/)
 -   [Code School: Ruby](https://www.codeschool.com/learn/ruby) (Ruby Bits 1 and 2).
+-   [% Notation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#The_.25_Notation)
 
-## Ruby
+## Type Conversion
 
-Please write the code that would take the following integer `700` and return the
-string `"007"`
+Write the Ruby code that takes the integer `700` and returns the string `"007"`.
 
 ```ruby
-  # your answer here
+# your answer here
 ```
 
-Please write the code that takes the following array `[23,56,3,7]` sorts it
-then reverses that array returning and modifying the refrence to the original
-array.
+## Array Manipulation
+
+Write the Ruby code that takes the following array, `[23, 56, 3, 7]`, and
+manipulates it by sorting it and then reversing it in place (i.e., modifying the
+reference to the original).
 
 ```ruby
-  # your answer here
+# your answer here
 ```
 
-What does an exclamation point after a method usually signify?
+## Class#method!
 
-```ruby
-  # your answer here
-```
-How do you create a class in Ruby?
+What does an exclamation point after a method usually signify?  e.g.,
+`my_string.capitalize!`
 
-```ruby
-  # your answer here
+```md
+<!-- your answer here -->
 ```
 
-If I modify a class in Ruby will already created instances of that class have
-the methods I added?
+## Instantiation
+How do you create an instance of a class in Ruby?
 
 ```ruby
-  # your answer here
+# your answer here
 ```
 
-Please give an example of iterating in Ruby?
+## Class Modification
+
+If a class in Ruby gets modified while there are existing instances of it, then
+will those instances also have those modifications?
+
+```md
+<!-- your answer here -->
+```
+
+## Iteration
+
+Write an example of iteration in Ruby.
 
 ```ruby
-  # your answer here
+# your answer here
 ```
