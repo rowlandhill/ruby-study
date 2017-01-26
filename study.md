@@ -18,8 +18,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Type Conversion
 
-Please write the code that would take the following integer `700` and return the
-string `"007"`
+Write the Ruby code that takes the integer `700` and returns the string `"007"`.
 
 ```ruby
 # your answer here
@@ -27,9 +26,9 @@ string `"007"`
 
 ## Array Manipulation
 
-Please write the code that takes the following array, `[23, 56, 3, 7]`, and
-manipulates it by sorting it and then reversing it in place (i.e., modifying
-the reference to the original).
+Write the Ruby code that takes the following array, `[23, 56, 3, 7]`, and
+manipulates it by sorting it and then reversing it in place (i.e., modifying the
+reference to the original).
 
 ```ruby
 # your answer here
@@ -37,14 +36,15 @@ the reference to the original).
 
 ## Class#method!
 
-What does an exclamation point after a method usually signify?
+What does an exclamation point after a method usually signify?  e.g.,
+`my_string.capitalize!`
 
 ```md
 <!-- your answer here -->
 ```
 
 ## Instantiation
-How do you create a class in Ruby?
+How do you create an instance of a class in Ruby?
 
 ```ruby
 # your answer here
@@ -52,8 +52,8 @@ How do you create a class in Ruby?
 
 ## Class Modification
 
-If I modify a class in Ruby, will already created instances of that class have
-the methods I added?
+If a class in Ruby gets modified while there are existing instances of it, then
+will those instances also have those modifications?
 
 ```md
 <!-- your answer here -->
@@ -61,7 +61,7 @@ the methods I added?
 
 ## Iteration
 
-Please give an example of iterating in Ruby?
+Write an example of iteration in Ruby.
 
 ```ruby
 # your answer here
