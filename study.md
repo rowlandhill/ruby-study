@@ -21,7 +21,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 Write the Ruby code that takes the integer `700` and returns the string `"007"`.
 
 ```ruby
-700.to_s
+700.to_s.reverse
 ```
 
 ## Array Manipulation
