@@ -31,7 +31,7 @@ manipulates it by sorting it and then reversing it in place (i.e., modifying the
 reference to the original).
 
 ```ruby
-[23, 56, 3, 7].sort.reverse!
+[23, 56, 3, 7].sort!.reverse!
 ```
 
 ## Class#method!
