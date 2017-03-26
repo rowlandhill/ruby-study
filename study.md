@@ -10,11 +10,17 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Try Ruby](http://tryruby.org/)
+-   [Ruby Tutorial - Try Ruby](http://tryruby.org/)
 -   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
--   [Poignant Guide](http://poignant.guide/)
--   [Code School: Ruby](https://www.codeschool.com/learn/ruby) (Ruby Bits 1 and 2).
+-   Code School (Only the free levels. **Do not pay for Code School unless you want to.**
+    -   [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
+    -   [Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)
 -   [% Notation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#The_.25_Notation)
+
+## Additional Resources
+
+-   [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+-   [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 
 ## Type Conversion
 
